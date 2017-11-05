@@ -18,5 +18,5 @@ Implementation of one and then multiagent ecosystem; using minimax, alpha-beta p
 
 ### Authors
 
-* **Mert Atila Sakaogullari / 49768** 
+* **Mert Atila Sakaogullari** 
 
